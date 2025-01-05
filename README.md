@@ -1,5 +1,5 @@
 # group-of-components
-This is a collection of components that you can use on your projects, these are interative and dynamic elements for some websites.
+This is a collection of components that you can use on your FrontEnd projects, these are interative and dynamic elements for some websites.
 
 This contains a few components, some of those that are made only with HTML & CSS, to prove the speed performance on the browser, compared with these same componentes made with ReactJS, itś only for educational purposes.
 
